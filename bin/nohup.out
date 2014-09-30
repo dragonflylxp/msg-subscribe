@@ -1,0 +1,1 @@
+{u'log': {u'logger': u'simple', u'logfile': u'conf/logging.conf'}, u'servers': {u'msg-delivery': {u'host': u'192.168.41.141', u'port': 8776}, u'redis': {u'host': u'192.168.41.141', u'db': 0, u'port': 6379, u'timeout': 5}}}
